@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Yona  👋
 
 # 💫 About Me:
 🎓 **Education**: Currently pursuing a Bachelor’s Degree in Informatics Engineering at Universitas Tarumanagara</br>
