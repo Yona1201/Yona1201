@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-**Education**: Currently pursuing a Bachelor’s Degree in Informatics Engineering at Universitas Tarumanagara<br>  <br>- 
-**Strong Foundation in Data Analysis**: I hold a solid background in data analysis, particularly focused on using Python for data visualization and manipulation.<br><br>- 
-**Technical Proficiency**: Equipped with advanced skills in Python libraries such as Matplotlib, NumPy, Pandas, and more, allowing me to perform insightful analysis and create impactful visualizations.<br><br>- 
-**Transforming Data into Insights**: I am deeply interested in turning raw data into meaningful insights that drive informed business decisions.<br><br>- 
-**Career Aspiration**: With my technical expertise and passion for data, I am confident in my ability to make meaningful contributions as a Data Analyst. <br><br>
+🎓 **Education**: Currently pursuing a Bachelor’s Degree in Informatics Engineering at Universitas Tarumanagara</br>
+**Strong Foundation in Data Analysis**: I hold a solid background in data analysis, particularly focused on using Python for data visualization and manipulation.</br>
+**Technical Proficiency**: Equipped with advanced skills in Python libraries such as Matplotlib, NumPy, Pandas, and more, allowing me to perform insightful analysis and create impactful visualizations.</br>
+**Transforming Data into Insights**: I am deeply interested in turning raw data into meaningful insights that drive informed business decisions.</br>
+**Career Aspiration**: With my technical expertise and passion for data, I am confident in my ability to make meaningful contributions as a Data Analyst. </br>
 
 
 ## 🌐 Socials:
